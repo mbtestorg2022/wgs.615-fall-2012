@@ -52,11 +52,56 @@ Remaining readings come from a variety of sources and are detailed in the [Readi
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance, preparation, and participation | 15% |
-| Reflection papers (6) | 30% |
-| Discussion leader | 15% |
-| Research paper and proposal | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance, preparation, and participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reflection papers (6)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion leader
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper and proposal
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
