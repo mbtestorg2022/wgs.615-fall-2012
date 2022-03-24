@@ -48,13 +48,13 @@ Introduction: Questions of Method / Theory
 {{< tdopen >}}
 
 
-Moi, Toril. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"["I Am Not a Feminist, But…": How Feminism Became the F-Word." (PDF)](http://www.torilmoi.com/wp-content/uploads/2009/09/Moi_PMLA_2006.pdf) _Prevention of Money Laundering Act_ 121, no. 5, (2006) 1735–41.
+Moi, Toril. "["I Am Not a Feminist, But…": How Feminism Became the F-Word." (PDF)](http://www.torilmoi.com/wp-content/uploads/2009/09/Moi_PMLA_2006.pdf) _Prevention of Money Laundering Act_ 121, no. 5, (2006) 1735–41.
 
 Eisenstein, Zillah R. "The Problem of Theorizing Feminism." In _Contemporary Feminist Theory: A Text / Reader._ Edited by Mary F. Rogers. McGraw-Hill, 1997, pp. 484–90. ISBN: 9780070540026.
 
 Harding, Sandra. "Introduction: Is There a Feminist Method?" In _Feminism and Methodology: Social Science Issues._ Indiana University Press, 1988, pp. 1–14. ISBN: 9780253204448. \[Preview with [Google Books](http://books.google.com/books?id=w2gzw6zz4fIC&pg=PA1#v=onepage)\]
 
-Mohanty, Chandra Talpade. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Under Western Eyes: Feminist Scholarship and Colonial Discourses." (PDF - 2.1MB)](http://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf) _Feminist Review_ 30 (1988): 61–88.
+Mohanty, Chandra Talpade. "[Under Western Eyes: Feminist Scholarship and Colonial Discourses." (PDF - 2.1MB)](http://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf) _Feminist Review_ 30 (1988): 61–88.
 
 
 {{< tdclose >}}
